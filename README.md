@@ -14,16 +14,4 @@ Todo-Backend API นี้สร้างด้วย [Express.js] และใ�
 การทดสอบ API ด้วย Postman
 คุณสามารถนำเข้า Collection ด้านล่างเพื่อทดสอบ API ทุกคำสั่งผ่าน Postman ได้ทันที:
 
-📁 [ดาวน์โหลดไฟล์ Postman สำหรับทดสอบ API]([./postman/Todo_API.postman_collection.json](https://drive.google.com/file/d/1P1W8JmtGU2ZNOcVQXFp8jkft19kUBZQC/view?usp=sharing))
-
-      วิธีใช้:
-      
-      เปิด Postman
-      
-      ไปที่ File → Import
-      
-      เลือกไฟล์ Todo API.postman_collection.json ที่แนบมา
-      
-      เริ่มทดสอบ API ได้ทันที
-
-
+📁 [ดาวน์โหลดไฟล์ Postman สำหรับทดสอบ API]  https://drive.google.com/file/d/1P1W8JmtGU2ZNOcVQXFp8jkft19kUBZQC/view?usp=sharing
